@@ -12,7 +12,7 @@
   "content": "<p></p>",
   "pages": [
     {
-      "id": 100,
+      "id": 120,
       "title": "Lambabet Casino",
       "slug": "en-gb",
       "content": "<p></p>",
@@ -90,7 +90,7 @@
       "faq": [],
       "globalSlotSetId": null,
       "globalReviewSetId": null,
-      "websiteId": 186,
+      "websiteId": 201,
       "createdAt": {},
       "updatedAt": {},
       "globalSlotSet": null,
@@ -303,8 +303,8 @@
       "question": "Can I try a game before playing with real money?"
     }
   ],
-  "_generated_at": "2026-10-13T12:03:16.006Z",
+  "_generated_at": "2026-10-13T12:04:48.592Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-13T12:03:16.740Z",
-  "_deploy_trigger": "96uxm"
+  "_last_deploy": "2026-10-13T12:04:49.215Z",
+  "_deploy_trigger": "4byof"
 }
