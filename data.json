@@ -199,7 +199,7 @@
   "main_background": "#212231",
   "secondary_background": "#2a2a3d",
   "button_background": "#4d9af6",
-  "button_text_color": "#000000",
+  "button_text_color": "#ffffff",
   "text_color": "#ffffff",
   "color_highlight_text": "#4d9af6",
   "color_main_btn_text": "#ffffff",
@@ -403,8 +403,8 @@
       "question": "What happens if my account remains inactive?"
     }
   ],
-  "_generated_at": "2026-10-13T13:49:52.816Z",
+  "_generated_at": "2026-10-13T13:50:26.868Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-13T13:49:53.490Z",
-  "_deploy_trigger": "pfg8ul"
+  "_last_deploy": "2026-10-13T13:50:27.605Z",
+  "_deploy_trigger": "t2otgo"
 }
