@@ -5,7 +5,7 @@
   "url": "reelwolves-casino.co.uk",
   "template": "tupchiy",
   "language_code": "en-IE",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -403,8 +403,8 @@
       "question": "What happens if my account remains inactive?"
     }
   ],
-  "_generated_at": "2026-10-14T10:49:38.218Z",
+  "_generated_at": "2026-10-14T10:55:19.446Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-14T10:49:38.948Z",
-  "_deploy_trigger": "he9eb"
+  "_last_deploy": "2026-10-14T10:55:20.063Z",
+  "_deploy_trigger": "d64c6h"
 }
